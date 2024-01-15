@@ -1,0 +1,4 @@
+baseURL = 'https://www.liana-and-ionut.wedding/'
+languageCode = 'ro'
+title = 'Liana & Ionuț'
+theme = 'hugo-story'
