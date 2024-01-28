@@ -8,6 +8,6 @@ subtitle: |
 #  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
 button:
   label : "Adaugă în calendar"
-  link : "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXFlYWVsbWw4amkyZWt1M2s4dHM0Nmh1YjMgaW9udXRjaXV0YTI0QG0&tmsrc=ionutciuta24%40gmail.com"
+  link : "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXFlYWVsbWw4amkyZWt1M2s4dHM0Nmh1YjMgMDg0YjdmMjRkMTI1NzIxYWM5OTRiOTBmMzkzZDBiOWVkN2UzMmE0ODBlNmZjZmU4Mzk1ZjE0MThhYmY4OGQzY0Bn&tmsrc=084b7f24d125721ac994b90f393d0b9ed7e32a480e6fcfe8395f1418abf88d3c%40group.calendar.google.com"
 image : "images/Ionut&Lianaweb-26.jpg"
 
