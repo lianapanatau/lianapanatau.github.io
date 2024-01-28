@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params.social]
   instagram = "https://instagram.com/johnofardeal"
-  facebook = "https://facebook.com/ionutciuta"
+  messenger = "https://m.me/ionutciuta10"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

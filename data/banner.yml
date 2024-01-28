@@ -7,7 +7,7 @@ subtitle: |
 #content : |
 #  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
 button:
-  label : "Pune în calendar"
+  label : "Adaugă în calendar"
   link : "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXFlYWVsbWw4amkyZWt1M2s4dHM0Nmh1YjMgaW9udXRjaXV0YTI0QG0&tmsrc=ionutciuta24%40gmail.com"
 image : "images/Ionut&Lianaweb-26.jpg"
 
