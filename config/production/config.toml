@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Liana & Ionuț"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -37,12 +37,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  instagram = "https://instagram.com/johnofardeal"
+  facebook = "https://facebook.com/ionutciuta"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

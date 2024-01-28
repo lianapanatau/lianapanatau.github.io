@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+title : "Party Time"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Lucrurile vor deveni cu adevărat interesante începând cu ora <b>16:00</b> când vom sta startul petrecerii la restaurantul <b>Casa Boema</b>, situat la doar câteva minute de locația bisericii, în centrul istoric al orașului.
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Vezi Locația Restaurantului"
+  link: "https://maps.app.goo.gl/HYoTHiHPViBoFPy67"
 image: "images/Ionut&Lianaweb-113.jpg"

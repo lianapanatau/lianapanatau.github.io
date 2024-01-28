@@ -1,10 +1,13 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Scrie-ne!"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  Ai primit o invitație? Înseamnă că ne-am dori foarte mult să te avem alături de noi și te rugăm să ne confirmi prezența până la data de <b>1 Iulie 2024</b> 💌
+  <br>
+  <br>
+  Contactează-ne pe orice canal de comunicare îți e la-ndemână!
+# button: 
+#   label: "Learn More"
+#   link: "#"
 image: "images/Ionut&Lianaweb-186.jpg"
