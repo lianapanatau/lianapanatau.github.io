@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Titlu"
+content: |
+  Eu voluptate voluptate et sit dolor elit esse ipsum magna elit esse commodo. Consectetur laboris officia occaecat commodo. Nisi in anim nisi dolor qui nostrud aliqua pariatur excepteur ipsum ex. Aliqua ullamco est duis amet consequat ullamco consequat culpa excepteur.
+# button: 
+#   label: "Vezi Locația Bisericii"
+#   link: "https://maps.app.goo.gl/UJzGbcaSfSrzyszE9"
+image: "images/godparents.jpg"
