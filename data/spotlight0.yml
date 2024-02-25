@@ -1,9 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Titlu"
+title : "De la prieteni la familie"
 content: |
-  Eu voluptate voluptate et sit dolor elit esse ipsum magna elit esse commodo. Consectetur laboris officia occaecat commodo. Nisi in anim nisi dolor qui nostrud aliqua pariatur excepteur ipsum ex. Aliqua ullamco est duis amet consequat ullamco consequat culpa excepteur.
+  În ziua evenimentului ne vor fi alături prietenii noștri dragi - de-acum încolo și în rolul de <b>nași</b> - familiile <b>Andrei & Cristina Lică</b> și <b>Cristian & Andra Vlad</b>.
+  
 # button: 
 #   label: "Vezi Locația Bisericii"
 #   link: "https://maps.app.goo.gl/UJzGbcaSfSrzyszE9"
